@@ -1,0 +1,10 @@
+: 1
+name: build2-test-exe
+version: 0.1.0-a.0.z
+summary: build2-test-exe executable
+license: TODO
+url: https://example.org/build2-test-exe
+email: mjklaim@gmail.com
+depends: * build2 >= 0.8.0-
+depends: * bpkg >= 0.8.0-
+#depends: libhello ^1.0.0
